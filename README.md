@@ -48,7 +48,7 @@ See [the presentation](presentation/SUMScope_presentation.pptx) for the study na
 SUMScope/
 ├── README.md
 ├── CREDITS.md
-|
+├── requirements.txt
 ├── .gitignore
 ├── notebooks/
 │   └── SUMScope_experiment.ipynb
