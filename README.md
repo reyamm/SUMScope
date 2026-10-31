@@ -40,7 +40,7 @@ The accompanying project presentation reports the following results for **200 BR
 
 **Online prompt tokens decreased 49%, and online LLM calls decreased 46%.** The NDCG@10 difference against Periscope was +0.006 (95% confidence interval −0.023 to +0.035), so the quality difference is **not statistically significant**. Offline preparation was reported separately: 1,762 documents summarized across 3,458 LLM calls. The online savings figures exclude that offline preprocessing.
 
-See [the presentation](SUMScope_Reyam_Albalihi_Presentation.pptx) for the study narrative.
+See [the presentation](presentation/SUMScope_Reyam_Albalihi_Presentation.pptx) for the study narrative.
 
 ## Repository structure
 
