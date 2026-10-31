@@ -1,0 +1,10 @@
+A,B,mean diff (A-B),95% CI,A wins,ties,B wins
+rows+sum (vote),periscope,0.001,"[-0.027, 0.030]",59,75,66
+rows+sum (vote),rows,0.005,"[-0.022, 0.032]",57,82,61
+rows+sum (vote),embed,0.096,"[0.053, 0.142]",102,48,50
+rows+sum (vote),"rows+sum (vote, v1)",-0.005,"[-0.021, 0.009]",27,138,35
+summary only,summary only (v1),-0.006,"[-0.025, 0.014]",35,111,54
+summary only,embed,0.072,"[0.030, 0.115]",95,43,62
+periscope,rows,0.005,"[-0.015, 0.026]",53,89,58
+periscope,embed,0.095,"[0.048, 0.142]",100,47,53
+"rows+sum (prepend, v1)",periscope,-0.053,"[-0.087, -0.019]",58,54,88

@@ -9,8 +9,7 @@ ROOT = Path(__file__).resolve().parent
 # Locate experiment artifacts.
 HOME = Path.home()
 HUMAIN = HOME / "Desktop" / "Humain"
-CANDIDATES = [HUMAIN / "q50", HUMAIN / "Q50", HUMAIN,
-              ROOT / "data", ROOT]
+CANDIDATES = [ROOT / "data", HUMAIN / "q50", HUMAIN / "Q50", HUMAIN, ROOT]
 DATA_DIR = next((p for p in CANDIDATES if (p / "probes_earth_science.json").exists()), CANDIDATES[0])
 SUMMARY_DIRS = [HUMAIN / "drive-download-20261031T123949Z-1-001", HUMAIN, DATA_DIR, ROOT / "data"]
 

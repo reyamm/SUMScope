@@ -1,0 +1,7 @@
+arm,LLM calls / query,prompt tokens / query (k),tokens vs periscope
+embed,0,0.0,0.0
+rows,840,1472.6,0.5
+periscope,1728,2952.0,1.0
+rows+sum (prepend),840,1670.8,0.57
+rows+sum (vote),935,1504.7,0.51
+summary only,100,33.0,0.01

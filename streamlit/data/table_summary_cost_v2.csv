@@ -1,0 +1,5 @@
+domain,docs summarized,docs without summary (1-2 chunks),LLM calls,prompt tokens (M),generated tokens (k),docs summarized from sampled pieces,docs whose summary length changed (v1 -> v2)
+earth_science,547,8,1502,12.06,540.4,10,257
+biology,508,3,801,4.71,251.9,1,215
+pony,233,109,249,0.6,40.2,0,23
+psychology,474,6,906,6.04,305.0,0,226
