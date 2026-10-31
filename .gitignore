@@ -1,0 +1,18 @@
+# Generated data, embeddings, scores and checkpoints
+outputs/
+periscope_hackathon/
+external/
+*.pt
+*.pth
+*.safetensors
+*.bin
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log

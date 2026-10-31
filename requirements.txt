@@ -1,0 +1,12 @@
+# Use a compatible NVIDIA CUDA environment; see README for vLLM setup.
+# Do not blindly upgrade GPU packages in a preconfigured Kaggle runtime.
+numpy
+pandas
+datasets
+transformers
+torch
+vllm
+accelerate
+safetensors
+sentencepiece
+jupyterlab
