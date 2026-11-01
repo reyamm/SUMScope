@@ -1,4 +1,4 @@
-# SUMScope ( SUMScore )
+# SUMScope ( SUMScore ) the name is TBD haha
 
 **Cache understanding. Cut compute.**
 
@@ -53,7 +53,7 @@ SUMScope/
 ├── notebooks/
 │   └── SUMScope_experiment.ipynb
 └── presentation/
-    └── SUMScope_presentation.pptx
+    └── SUMScope_Reyam_Albalihi_Presentation.pdf
 ```
 
 ## Run the experiment
